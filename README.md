@@ -3,7 +3,7 @@
 CodeWrite_DB consists of programs collected by the automated system of University of Auckland. These programs were written by students to answer the programming assignments. There are 10 programming assignments and the current repository includes only those programs which failed the test cases. The list of programs are as follows :
 
 1. productIsEven
-2. replaceCharacterAtPosition
+2. replaceCharacterAtPosition { Multiples files were ignored as the submissions were totally incorrect or core logic was missing)
 3. swapEnds
 4. 
 

@@ -4,9 +4,9 @@ CodeWrite  consists of programs collected by the automated system of University 
 2. replaceCharacterAtPosition  
 3. swapEnds
 4. weeklyPay
-5. containersNeeded // updating...
+5. containersNeeded  
 6. magicNumbers
-7. reverse
+7. reverse  //updating
 8. sumValues 
 9. PositionofValueInArray
 10. countOdds

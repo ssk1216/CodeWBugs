@@ -6,9 +6,9 @@ CodeWrite  consists of programs collected by the automated system of University 
 4. weeklyPay
 5. containersNeeded  
 6. magicNumbers
-7. reverse  //updating
+7. reverse  
 8. sumValues 
-9. PositionofValueInArray
+9. PositionofValueInArray //updating
 10. countOdds
 
 The original dataset and the associated information is available here: https://dl.acm.org/doi/10.1145/1953163.1953299

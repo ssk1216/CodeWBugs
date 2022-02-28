@@ -15,3 +15,15 @@ The original dataset and the associated information is available here: https://d
 
  
 Main Statistics 
+Table1 gives the main statistics of this dataset.
+Group	-----No of buggy programs
+productIsEven --	16
+replaceCharacterAtPosition	--12
+swapEnds---	9
+weeklyPay---	15
+containersNeeded--	17
+magicNumbers---	14
+reverse---	6
+sumValues---	10
+     
+

@@ -5,7 +5,7 @@ import static org.junit.Assert.assertEquals;
 import org.junit.Before;
 import org.junit.Test;
 
-public class cw_263_5382Test {
+public class cw_263_55382Test {
 	
 	cw_263_55382 obj;
 	@Before

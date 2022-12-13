@@ -5,11 +5,11 @@ import org.junit.Test;
 
 public class cw_188_2121Test {
 
-	cw_188_2120 obj;
+	cw_188_2121 obj;
 	@Before
 	public void setUp()
 	{
-		obj=new cw_188_2120();
+		obj=new cw_188_2121();
 	}
 	
 	@Test

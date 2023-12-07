@@ -31,7 +31,7 @@ sumValues|SV|10 |
    empty, in which case the value returned should be 0. Complete the countOdds() method below.
 4. Magic number	Two positive integers are said to be magic numbers  if they satisfy the following three properties: 
    both numbers are the same length (i.e. consist of the same number of digits)  2) the numbers must be different (i.e. the numbers cannot be the same)  3) the smaller of the two numbers is a divisor/factor (i.e. divides with no remainder) of the larger number 
-      For example, the following pairs of numbers are \"magic\": 
+      For example, the following pairs of numbers are \"magic\":
       900, 450 
       3000, 1000 
       90, 30 
@@ -39,11 +39,12 @@ sumValues|SV|10 |
       100, 100 (these two numbers are the same) 
       1000, 100 (the number of digits in each number is different) 
       200, 101 (the smaller number is not a factor of the larger number) 
-      Complete the magicNumbers() method which takes two input numbers and returns true if they are magic numbers and false otherwise. You can assume  that both input values will be  positive
-5.SumValues:	The  sumValues() methods takes two inputs: an array of integers, and a boolean called  "positivesOnly ". The method should calculate the sum of the values in the array, however if “positivesOnly " is true, then any 
+      Complete the magicNumbers() method which takes two input numbers and returns true if they are magic numbers and false otherwise. You can assume  that both input values will be  positive.
+5. SumValues:	The  sumValues() methods takes two inputs: an array of integers, and a boolean called  "positivesOnly ". The method should calculate the sum of the values in the array, however if “positivesOnly " is true, then any 
   negative numbers in the array should be ignored and not contribute to the sum. For example, if the input array is {-1,2,-3,4,-5,6 } ,then calling sumValues() with "positivesOnly" being  true  should give 12 because only the positive values (2,4,6) are summed, whereas 
   if  "positivesOnly" is <strong>false</strong> the output should be: 3 ,because all of the values in the array are summed Note: the array may be empty, in which case the method should return 0.
-6.SwapEnds	Complete the method called  swapEnds()  which takes one String as input.  It must return a new String, which is the same as the input String except that the first and last characters of the String are 
+
+6. SwapEnds	Complete the method called  swapEnds()  which takes one String as input.  It must return a new String, which is the same as the input String except that the first and last characters of the String are 
   swapped. For example, if the input String is  "Hello" , the output String must be  "oellH".
 7. Reverse:	Mary creates an array of integers, however she realises that the values have been stored in the array in the opposite order to what she needs. She therefore would like to define a method to reverse the order of the values in the array.Her method, called reverse(), will be passed an array as input and will return a new array (note: the original input array is not changed) which contains the same values as the original input array but in reverse order For example if the input array is :  {1,2,3,4,5}, the new array returned by the method will be {5,4,3,2,1}.
 8. Containersneeded : 	A factory requires a program to calculate the number of containers needed to store a given number of items. Each container can fit up to 10 items. In this exercise, you need to complete the function containersNeeded()  which is passed the number of items to store as an input parameter. The function should calculate and return the number of containers sufficient to store that many items. For example, if there are 10 items to store, then only 1 container is needed.  However, if there are 11 items to store, then 2 containers are needed (one container will be full, and the other will have just one item).

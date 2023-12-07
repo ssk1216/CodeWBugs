@@ -16,7 +16,7 @@ reverse	| REV | 6 |
 containersNeeded	| CN | 17 |
 weeklyPay | WP | 	15 |
 PositionofValueInArray| PVA| 10 |
-sumValues|SV|10 |
+ 
 
 #### Task Description
    

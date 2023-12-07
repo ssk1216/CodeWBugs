@@ -23,16 +23,16 @@ For RQ1, the basic prompt (prompt1) is designed as follows:
 Project title | Project code | Number of programs
 -------------------------------------------------
 productIsEven |	PISE  |    6
-replaceCharacterAtPosition-12
-countOdds	7
-magicNumbers	14
-sumValues 10
-swapEnds	9
-reverse	6
-containersNeeded	17
-weeklyPay	15
-PositionofValueInArray	10
-sumValues	10
+replaceCharacterAtPosition | RCP | 12
+countOdds | CO |	7
+magicNumbers | MN |	14
+sumValues | SV | 10
+swapEnds |  SE  |	9
+reverse	| REV | 6
+containersNeeded	| CN | 17
+weeklyPay | WP | 	15
+PositionofValueInArray| PVA| 10
+sumValues|SV|10
 
 
 

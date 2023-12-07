@@ -1,19 +1,42 @@
-# CodeWrite 
-CodeWrite  consists of programs collected by  a web-based tool of the University of Auckland. These programs were written by students to answer the various programming assignments. The original CodeWrite benchmark contains a) a set of correct versions of the student submissions.  b) a set of incorrect programs c) a set of test inputs. . There are 10 programming assignments and the current repository includes only those programs that failed the test cases. The list of programs,and the number of buggy of programs in each is as follows :
+# CodeWBugs
 
-productIsEven-	16
+CodeWBugs is created using the student submissions collected by CodeWrite, a web-based tool designed by the University of Auckland to  support novice programmers[reference]. Students wrote these programs to answer the various Java programming assignments. An initial data filtering process was carried out to identify a group of incorrect programs. A total of 106 programs, from 10 programming projects that focus on various fundamental Java concepts were selected to create this benchmark.   
+
+productIsEven [PISE] 6
+replaceCharacterAtPosition [RCP] 12
+countOdds [CO] 7
+positionofValueInArray [PVA] 10
+Magic number[MN] 14
+SumValues[SV] 10
+SwapEnds[SE] 9
+Reverse [REV] 6
+Containerneeded[CN] 17
+WeeklyPay [WP] 15
+Total -106 programs
+Table 1. Dataset Outline
+3.2 Data Analysis
+For RQ1, the basic prompt (prompt1) is designed as follows:
+4https://anonymous.4open.science/r/CodeWBugs-C15E/
+3
+
+
+Project title | Project code | Number of programs
+-------------------------------------------------
+productIsEven |	PISE  |    6
 replaceCharacterAtPosition-12
-swapEnds	9
-weeklyPay	15
-containersNeeded	17
+countOdds	7
 magicNumbers	14
+sumValues 10
+swapEnds	9
 reverse	6
-sumValues	10
+containersNeeded	17
+weeklyPay	15
 PositionofValueInArray	10
-countOdds	8
+sumValues	10
 
-The original dataset and the associated information is available here: https://dl.acm.org/doi/10.1145/1953163.1953299 . 
-     
+
+
+   
 
  The task description for each project is as follows:
        \begin{enumerate}

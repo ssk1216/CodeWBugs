@@ -2,37 +2,31 @@
 
 CodeWBugs is created using the student submissions collected by CodeWrite, a web-based tool designed by the University of Auckland to  support novice programmers[reference]. Students wrote these programs to answer the various Java programming assignments. An initial data filtering process was carried out to identify a group of incorrect programs. A total of 106 programs, from 10 programming projects that focus on various fundamental Java concepts were selected to create this benchmark.   
 
-productIsEven [PISE] 6
-replaceCharacterAtPosition [RCP] 12
-countOdds [CO] 7
-positionofValueInArray [PVA] 10
-Magic number[MN] 14
-SumValues[SV] 10
-SwapEnds[SE] 9
-Reverse [REV] 6
-Containerneeded[CN] 17
-WeeklyPay [WP] 15
-Total -106 programs
-Table 1. Dataset Outline
-3.2 Data Analysis
-For RQ1, the basic prompt (prompt1) is designed as follows:
-4https://anonymous.4open.science/r/CodeWBugs-C15E/
-3
-
-
+ 
 Project title | Project code | Number of programs |
--------------------------------------------------
+---------------------------------------------------
 productIsEven |	PISE  |    6  |
+---------------------------------------------------
 replaceCharacterAtPosition | RCP | 12 |
+---------------------------------------------------
 countOdds | CO |	7 |
+---------------------------------------------------
 magicNumbers | MN |	14 |
+---------------------------------------------------
 sumValues | SV | 10 |
+---------------------------------------------------
 swapEnds |  SE  |	9 |
+---------------------------------------------------
 reverse	| REV | 6 |
+---------------------------------------------------
 containersNeeded	| CN | 17 |
+---------------------------------------------------
 weeklyPay | WP | 	15 |
+---------------------------------------------------
 PositionofValueInArray| PVA| 10 |
+---------------------------------------------------
 sumValues|SV|10 |
+---------------------------------------------------
 
 
 
